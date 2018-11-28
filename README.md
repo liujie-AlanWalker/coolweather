@@ -1,6 +1,8 @@
 # coolweather
 是《第一行代码》的课后练习项目
 
+使用的android版本为：26.1.0
+
 集成的插件版本为：
 
     implementation 'org.litepal.android:java:3.0.0'
